@@ -7,4 +7,8 @@
 
 欢迎大家Star，后续慢慢更新。
 
+ua_string.csv是一个ua集合，来源于网上。
+
+type_total.csv是豆瓣类别集合。
+
 个人博客：http://tidne.com/blog
