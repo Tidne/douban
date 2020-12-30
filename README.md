@@ -14,3 +14,4 @@ type_total.csv是豆瓣类别集合。
 个人博客：http://tidne.com/blog
 
 Test
+Test2
