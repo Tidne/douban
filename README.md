@@ -15,3 +15,4 @@ type_total.csv是豆瓣类别集合。
 
 Test
 Test2
+Test3
